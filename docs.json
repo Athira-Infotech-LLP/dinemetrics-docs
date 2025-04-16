@@ -76,8 +76,8 @@
     }
   },
   "logo": {
-    "light": "/logo/dinemetrics_logo_dark.svg",
-    "dark": "/logo/dinemetrics_logo_light.png"
+    "light": "/logo/dinemetrics_logo_light.svg",
+    "dark": "/logo/dinemetrics_logo_dark.svg"
   },
   "navbar": {
     "links": [
